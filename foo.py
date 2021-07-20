@@ -1,3 +1,5 @@
+# Python program for a-shares
+# Qingxuan Peng 2021
 import pandas as pd
 import os.path
 from  datetime  import  *
